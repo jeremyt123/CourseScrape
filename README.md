@@ -8,8 +8,11 @@ This python script will create a TSV file with course name, restrictions, prereq
 If you use this for something cool let me know! (thornej@uoguelph.ca)
 
 Dependencies
+
  -bs4
+ 
  -requests
+ 
  -pandas
 
 Enjoy :)
